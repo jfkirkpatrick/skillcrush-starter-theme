@@ -1,5 +1,5 @@
 # skillcrush-starter-theme
-Repro for Skillcrush Starter Theme
+Repo for Skillcrush Starter Theme
 
 These are the files as downloaded from the Live website.
 
