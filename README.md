@@ -1,5 +1,5 @@
 # skillcrush-starter-theme
-Repo for Skillcrush Starter Theme
+Repo for My version of the Skillcrush Starter Theme
 
 This theme was originally downloaded from Skillcrush and modified by me.
 
